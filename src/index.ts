@@ -5,7 +5,7 @@ import path from "path";
 const app = express();
 const PORT = 3000;
 
-const jsonPath = path.join(__dirname, "json.json");
+const jsonPath = path.join(__dirname, "jsonStore.json");
 
 app.use(express.json());
 app.use(express.static(path.join(__dirname, "public")));
