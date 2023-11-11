@@ -1,0 +1,16 @@
+{
+  "hello": {
+    "id": "fksldflk88789dksfjl",
+    "firstName": "Petro",
+    "lastName": "Poroshenko",
+    "phone": "+380984561225",
+    "location": "Kyiv",
+    "avatarURL": "https://"
+  },
+  "kall": {
+    "title": "My first post",
+    "location": "Kyiv",
+    "description": "Change my item for your item",
+    "img": "https://ldsound.info/wp-content/uploads/2013/07/25%D0%B0%D1%81128-ldsound_ru-1.jpg"
+  }
+}
